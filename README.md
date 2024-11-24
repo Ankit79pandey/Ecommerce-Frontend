@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+The code is of Ecommerce-application
+
+1) Download the Code.
+2) If you have the node package manager installed in your system then its fine unless you have to install the node and do the required configuation.
+3) The code can run in any IDE which is compatible to run the javascript and react code, the only important thing you need to do is to install the required dependencies by running the command "npm i".
+4) All the required dependency installed,
+5) You can run the code by running the command "npm start".
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
